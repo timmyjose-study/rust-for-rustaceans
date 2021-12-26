@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+  "chapter",
+  "hello_macro",
+  "hello_macro_derive",
+]
