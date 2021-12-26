@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+  "async-std-hello",
+  "tokio-hello"
+]
