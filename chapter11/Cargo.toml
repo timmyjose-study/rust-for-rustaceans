@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+  "calling-c-from-rust",
+  "calling-rust-from-c",
+  "chapter"
+]
